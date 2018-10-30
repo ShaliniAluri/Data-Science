@@ -5,4 +5,4 @@ Prog: script.py
 Desc: Python for beginners
 '''
 
-print( "Hello World!" )
+print( "Hello from git online pull" )
